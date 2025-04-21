@@ -33,7 +33,7 @@ Curso realizado no site Udemy pelo Fernando Papito
 
 ---
 
-` Curso: ` [Udemy - Testes contínuos em Playwright no Github Actions]("https://www.udemy.com/course/testes-continuos-em-playwright-no-github-actions/?couponCode=KEEPLEARNINGBR")
+` Curso: ` Udemy - Testes contínuos em Playwright no Github Actions
 
 ---
 
